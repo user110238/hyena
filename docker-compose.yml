@@ -1,0 +1,18 @@
+services:
+
+
+  suricata:
+    build: ./suricata
+    container_name: suricata
+    privileged: true
+    network_mode: host
+    volumes:
+      - ./suricata/logs:/var/log/suricata
+      - ./suricata/rules:/etc/suricata/rules
+      - ./suricata/config/suricata.yaml:/etc/suricata/suricata.yaml
+    environment:
+      - SURICATA_LOGS=/var/log/suricata
+      - SURICATA_RULES=/etc/suricata/rules
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW

@@ -1,0 +1,17 @@
+// Me when networking
+// >:(
+sudo iptables -t mangle -I INPUT -j NFQUEUE --queue-num 0 --queue-bypass
+sudo iptables -t mangle -I OUTPUT -j NFQUEUE --queue-num 0 --queue-bypass
+sudo iptables -I FORWARD -j NFQUEUE --queue-num 0 --queue-bypass
+
+sudo iptables -D INPUT -j NFQUEUE --queue-num 0 --queue-bypass
+sudo iptables -D OUTPUT -j NFQUEUE --queue-num 0 --queue-bypass
+sudo iptables -D FORWARD -j NFQUEUE --queue-num 0 --queue-bypass
+
+// :D
+docker compose build
+docker compose up
+
+
+sudo iptables -I INPUT 1 -s 172.0.0.0/8 -d 172.0.0.0/8 -j ACCEPT
+sudo iptables -I OUTPUT 1 -s 172.0.0.0/8 -d 172.0.0.0/8 -j ACCEPT

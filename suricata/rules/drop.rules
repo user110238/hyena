@@ -1,0 +1,1 @@
+drop ip any any -> any any (msg:"Burek"; content:"burek"; sid:1000002; priority:2;)

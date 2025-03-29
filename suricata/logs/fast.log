@@ -1,0 +1,280 @@
+01/02/2025-21:46:49.014349  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51091 -> 127.0.0.1:53
+01/02/2025-21:46:49.014358  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51091 -> 127.0.0.1:53
+01/02/2025-21:46:52.096371  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36197 -> 127.0.0.1:53
+01/02/2025-21:46:52.096382  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36197 -> 127.0.0.1:53
+01/02/2025-21:46:52.299971  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45484 -> 127.0.0.1:53
+01/02/2025-21:46:52.299981  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45484 -> 127.0.0.1:53
+01/02/2025-21:46:54.019659  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:45871 -> 1.1.1.1:53
+01/02/2025-21:46:54.019710  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:45871 -> 1.1.1.1:53
+01/02/2025-21:46:57.021959  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:38029 -> 1.0.0.1:53
+01/02/2025-21:46:57.021974  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:38029 -> 1.0.0.1:53
+01/02/2025-21:46:57.098063  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:47024 -> 1.1.1.1:53
+01/02/2025-21:46:57.098076  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:47024 -> 1.1.1.1:53
+01/02/2025-21:46:57.305282  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:60952 -> 1.1.1.1:53
+01/02/2025-21:46:57.305301  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:60952 -> 1.1.1.1:53
+01/02/2025-21:47:00.101385  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54770 -> 1.0.0.1:53
+01/02/2025-21:47:00.101409  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54770 -> 1.0.0.1:53
+01/02/2025-21:47:00.306180  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:39604 -> 1.0.0.1:53
+01/02/2025-21:47:00.306207  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:39604 -> 1.0.0.1:53
+01/02/2025-21:47:03.026171  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51091 -> 127.0.0.1:53
+01/02/2025-21:47:03.026190  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51091 -> 127.0.0.1:53
+01/02/2025-21:47:06.107468  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36197 -> 127.0.0.1:53
+01/02/2025-21:47:06.107489  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36197 -> 127.0.0.1:53
+01/02/2025-21:49:44.723851  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56236 -> 127.0.0.1:53
+01/02/2025-21:49:44.723860  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56236 -> 127.0.0.1:53
+01/02/2025-21:49:47.647878  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33104 -> 127.0.0.1:53
+01/02/2025-21:49:47.647894  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33104 -> 127.0.0.1:53
+01/02/2025-21:49:49.725993  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:53533 -> 1.1.1.1:53
+01/02/2025-21:49:49.726007  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:53533 -> 1.1.1.1:53
+01/02/2025-21:49:52.650149  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54123 -> 1.1.1.1:53
+01/02/2025-21:49:52.650167  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54123 -> 1.1.1.1:53
+01/02/2025-21:49:52.729163  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57740 -> 1.0.0.1:53
+01/02/2025-21:49:52.729174  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57740 -> 1.0.0.1:53
+01/03/2025-12:50:47.827018  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34501 -> 127.0.0.1:53
+01/03/2025-12:50:47.827037  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34501 -> 127.0.0.1:53
+01/03/2025-12:50:52.830236  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:49907 -> 1.1.1.1:53
+01/03/2025-12:50:52.830259  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:49907 -> 1.1.1.1:53
+01/03/2025-12:50:55.833368  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42887 -> 1.0.0.1:53
+01/03/2025-12:50:55.833389  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42887 -> 1.0.0.1:53
+01/03/2025-12:51:01.839089  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34501 -> 127.0.0.1:53
+01/03/2025-12:51:01.839108  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34501 -> 127.0.0.1:53
+01/03/2025-12:51:05.342680  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35221 -> 127.0.0.1:53
+01/03/2025-12:51:05.342694  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35221 -> 127.0.0.1:53
+01/03/2025-12:51:06.842073  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:49907 -> 1.1.1.1:53
+01/03/2025-12:51:06.842091  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:49907 -> 1.1.1.1:53
+01/03/2025-12:51:08.322426  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:40151 -> 127.0.0.1:53
+01/03/2025-12:51:09.843466  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42887 -> 1.0.0.1:53
+01/03/2025-12:51:09.843481  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42887 -> 1.0.0.1:53
+01/03/2025-12:51:10.346739  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57126 -> 1.1.1.1:53
+01/03/2025-12:51:10.346755  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57126 -> 1.1.1.1:53
+01/03/2025-12:51:13.326344  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33217 -> 1.1.1.1:53
+01/03/2025-12:51:13.349543  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59746 -> 1.0.0.1:53
+01/03/2025-12:51:13.349572  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59746 -> 1.0.0.1:53
+01/03/2025-12:51:15.846469  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:38344 -> 127.0.0.1:53
+01/03/2025-12:51:15.846489  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:38344 -> 127.0.0.1:53
+01/03/2025-12:51:16.328446  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:37345 -> 1.0.0.1:53
+01/03/2025-12:51:19.354084  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35221 -> 127.0.0.1:53
+01/03/2025-12:51:19.354106  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35221 -> 127.0.0.1:53
+01/03/2025-12:51:20.850341  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42048 -> 1.1.1.1:53
+01/03/2025-12:51:20.850371  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42048 -> 1.1.1.1:53
+01/03/2025-12:51:22.334057  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:40151 -> 127.0.0.1:53
+01/03/2025-12:51:23.853518  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:35312 -> 1.0.0.1:53
+01/03/2025-12:51:23.853541  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:35312 -> 1.0.0.1:53
+01/03/2025-12:51:24.358073  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57126 -> 1.1.1.1:53
+01/03/2025-12:51:24.358094  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57126 -> 1.1.1.1:53
+01/03/2025-12:51:27.338208  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33217 -> 1.1.1.1:53
+01/03/2025-12:51:27.359771  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59746 -> 1.0.0.1:53
+01/03/2025-12:51:27.359792  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59746 -> 1.0.0.1:53
+01/03/2025-12:51:29.858280  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:38344 -> 127.0.0.1:53
+01/03/2025-12:51:29.858310  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:38344 -> 127.0.0.1:53
+01/03/2025-12:51:30.341396  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:37345 -> 1.0.0.1:53
+01/03/2025-12:51:33.363004  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:40036 -> 127.0.0.1:53
+01/03/2025-12:51:33.613265  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:41223 -> 127.0.0.1:53
+01/03/2025-12:51:34.862674  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42048 -> 1.1.1.1:53
+01/03/2025-12:51:34.862708  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42048 -> 1.1.1.1:53
+01/03/2025-12:51:36.346739  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45385 -> 127.0.0.1:53
+01/03/2025-12:51:36.596976  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43499 -> 127.0.0.1:53
+01/03/2025-12:51:36.596997  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43499 -> 127.0.0.1:53
+01/03/2025-12:58:06.736784  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36706 -> 127.0.0.1:53
+01/03/2025-12:58:09.677835  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51847 -> 127.0.0.1:53
+01/03/2025-12:58:11.738176  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:41660 -> 1.1.1.1:53
+01/03/2025-12:58:14.682068  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54983 -> 1.1.1.1:53
+01/03/2025-12:58:14.738515  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:43999 -> 1.0.0.1:53
+01/03/2025-12:58:17.683534  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59176 -> 1.0.0.1:53
+01/03/2025-12:58:20.742158  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:36706 -> 127.0.0.1:53
+01/03/2025-12:58:23.686162  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:51847 -> 127.0.0.1:53
+01/03/2025-12:58:25.746687  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:41660 -> 1.1.1.1:53
+01/03/2025-12:58:28.690176  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54983 -> 1.1.1.1:53
+01/03/2025-12:58:28.749843  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:43999 -> 1.0.0.1:53
+01/03/2025-12:58:31.693199  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59176 -> 1.0.0.1:53
+01/03/2025-12:58:34.755378  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58444 -> 127.0.0.1:53
+01/03/2025-12:58:34.755398  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58444 -> 127.0.0.1:53
+01/03/2025-12:58:35.024736  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:47085 -> 127.0.0.1:53
+01/03/2025-12:58:37.699106  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45368 -> 127.0.0.1:53
+01/03/2025-12:58:37.699124  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45368 -> 127.0.0.1:53
+01/03/2025-12:58:37.948849  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:50109 -> 127.0.0.1:53
+01/03/2025-12:58:39.759294  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40552 -> 1.1.1.1:53
+01/03/2025-12:58:39.759323  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40552 -> 1.1.1.1:53
+01/03/2025-12:58:40.028649  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:51618 -> 1.1.1.1:53
+01/03/2025-12:58:42.702166  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:52179 -> 1.1.1.1:53
+01/03/2025-12:58:42.702189  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:52179 -> 1.1.1.1:53
+01/03/2025-12:58:42.762317  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:35715 -> 1.0.0.1:53
+01/03/2025-12:58:42.762343  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:35715 -> 1.0.0.1:53
+01/03/2025-12:58:42.953089  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:58759 -> 1.1.1.1:53
+01/03/2025-12:58:43.031625  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:60011 -> 1.0.0.1:53
+01/03/2025-12:58:45.702532  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:53393 -> 1.0.0.1:53
+01/03/2025-12:58:45.702558  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:53393 -> 1.0.0.1:53
+01/03/2025-12:58:45.954168  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:43197 -> 1.0.0.1:53
+01/03/2025-12:58:48.766040  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58444 -> 127.0.0.1:53
+01/03/2025-12:58:48.766050  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58444 -> 127.0.0.1:53
+01/03/2025-12:58:49.035862  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:47085 -> 127.0.0.1:53
+01/03/2025-12:58:51.706245  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45368 -> 127.0.0.1:53
+01/03/2025-12:58:51.706272  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45368 -> 127.0.0.1:53
+01/03/2025-12:58:51.959585  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:50109 -> 127.0.0.1:53
+01/03/2025-12:58:53.770144  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40552 -> 1.1.1.1:53
+01/03/2025-12:58:53.770175  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40552 -> 1.1.1.1:53
+01/03/2025-12:58:54.038173  [Drop] [**] [1:1000002:0] Block traffic containing YouTube [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:51618 -> 1.1.1.1:53
+01/03/2025-13:03:45.640336  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43988 -> 127.0.0.1:53
+01/03/2025-13:03:45.640367  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43988 -> 127.0.0.1:53
+01/03/2025-13:03:48.716744  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33917 -> 127.0.0.1:53
+01/03/2025-13:03:48.716767  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33917 -> 127.0.0.1:53
+01/03/2025-13:03:50.642258  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33515 -> 1.1.1.1:53
+01/03/2025-13:03:50.642277  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33515 -> 1.1.1.1:53
+01/03/2025-13:03:53.645601  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57415 -> 1.0.0.1:53
+01/03/2025-13:03:53.645640  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57415 -> 1.0.0.1:53
+01/03/2025-13:03:53.720568  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48199 -> 1.1.1.1:53
+01/03/2025-13:03:53.720589  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48199 -> 1.1.1.1:53
+01/03/2025-13:03:56.722187  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46638 -> 1.0.0.1:53
+01/03/2025-13:03:56.722264  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46638 -> 1.0.0.1:53
+01/03/2025-13:03:59.650757  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43988 -> 127.0.0.1:53
+01/03/2025-13:03:59.650775  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:43988 -> 127.0.0.1:53
+01/03/2025-13:04:02.726156  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33917 -> 127.0.0.1:53
+01/03/2025-13:04:02.726171  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:33917 -> 127.0.0.1:53
+01/03/2025-13:04:04.655542  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33515 -> 1.1.1.1:53
+01/03/2025-13:04:04.655559  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:33515 -> 1.1.1.1:53
+01/03/2025-13:04:07.658185  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57415 -> 1.0.0.1:53
+01/03/2025-13:04:07.658222  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57415 -> 1.0.0.1:53
+01/03/2025-13:04:07.730085  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48199 -> 1.1.1.1:53
+01/03/2025-13:04:07.730105  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48199 -> 1.1.1.1:53
+01/03/2025-13:04:10.732924  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46638 -> 1.0.0.1:53
+01/03/2025-13:04:10.732939  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46638 -> 1.0.0.1:53
+01/03/2025-13:04:13.733442  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35340 -> 127.0.0.1:53
+01/03/2025-13:04:18.738061  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46807 -> 1.1.1.1:53
+01/03/2025-13:04:21.741337  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57835 -> 1.0.0.1:53
+01/03/2025-13:04:27.746195  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:35340 -> 127.0.0.1:53
+01/03/2025-13:04:32.750143  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:46807 -> 1.1.1.1:53
+01/03/2025-13:04:35.750554  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57835 -> 1.0.0.1:53
+01/03/2025-13:09:53.176167  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45216 -> 127.0.0.1:53
+01/03/2025-13:09:53.176176  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45216 -> 127.0.0.1:53
+01/03/2025-13:09:56.085959  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:55709 -> 127.0.0.1:53
+01/03/2025-13:09:58.178069  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54227 -> 1.1.1.1:53
+01/03/2025-13:09:58.178081  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54227 -> 1.1.1.1:53
+01/03/2025-13:10:01.090894  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42826 -> 1.1.1.1:53
+01/03/2025-13:10:01.178237  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:58145 -> 1.0.0.1:53
+01/03/2025-13:10:01.178259  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:58145 -> 1.0.0.1:53
+01/03/2025-13:10:04.091101  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:36502 -> 1.0.0.1:53
+01/03/2025-13:10:07.182001  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45216 -> 127.0.0.1:53
+01/03/2025-13:10:07.182009  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:45216 -> 127.0.0.1:53
+01/03/2025-13:10:10.094122  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:55709 -> 127.0.0.1:53
+01/03/2025-13:10:12.186101  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54227 -> 1.1.1.1:53
+01/03/2025-13:10:12.186118  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54227 -> 1.1.1.1:53
+01/03/2025-13:10:15.098173  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:42826 -> 1.1.1.1:53
+01/03/2025-13:10:15.189240  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:58145 -> 1.0.0.1:53
+01/03/2025-13:10:15.189265  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:58145 -> 1.0.0.1:53
+01/03/2025-13:10:18.101305  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:36502 -> 1.0.0.1:53
+01/03/2025-13:10:21.334004  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59080 -> 127.0.0.1:53
+01/03/2025-13:10:21.334018  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59080 -> 127.0.0.1:53
+01/03/2025-13:11:17.072794  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37637 -> 127.0.0.1:53
+01/03/2025-13:11:20.010332  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56579 -> 127.0.0.1:53
+01/03/2025-13:11:20.010342  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56579 -> 127.0.0.1:53
+01/03/2025-13:11:22.075343  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:43140 -> 1.1.1.1:53
+01/03/2025-13:11:25.014107  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57880 -> 1.1.1.1:53
+01/03/2025-13:11:25.014120  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57880 -> 1.1.1.1:53
+01/03/2025-13:11:25.078076  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54075 -> 1.0.0.1:53
+01/03/2025-13:11:28.014330  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48488 -> 1.0.0.1:53
+01/03/2025-13:11:28.014352  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48488 -> 1.0.0.1:53
+01/03/2025-13:11:31.082165  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37637 -> 127.0.0.1:53
+01/03/2025-13:11:34.019892  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56579 -> 127.0.0.1:53
+01/03/2025-13:11:34.019921  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:56579 -> 127.0.0.1:53
+01/03/2025-13:11:36.087246  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:43140 -> 1.1.1.1:53
+01/03/2025-13:11:39.022695  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57880 -> 1.1.1.1:53
+01/03/2025-13:11:39.022724  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:57880 -> 1.1.1.1:53
+01/03/2025-13:11:39.090166  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:54075 -> 1.0.0.1:53
+01/03/2025-13:11:42.024705  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48488 -> 1.0.0.1:53
+01/03/2025-13:11:42.024717  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48488 -> 1.0.0.1:53
+01/03/2025-13:11:45.094204  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48986 -> 127.0.0.1:53
+01/03/2025-13:11:48.030477  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49148 -> 127.0.0.1:53
+01/03/2025-13:11:48.030493  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49148 -> 127.0.0.1:53
+01/03/2025-13:11:50.098134  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59212 -> 1.1.1.1:53
+01/03/2025-13:11:53.034137  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:32901 -> 1.1.1.1:53
+01/03/2025-13:11:53.034156  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:32901 -> 1.1.1.1:53
+01/03/2025-13:11:53.098416  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40750 -> 1.0.0.1:53
+01/03/2025-13:11:56.037437  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:50817 -> 1.0.0.1:53
+01/03/2025-13:11:56.037472  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:50817 -> 1.0.0.1:53
+01/03/2025-13:11:59.102119  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48986 -> 127.0.0.1:53
+01/03/2025-13:12:02.042918  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49148 -> 127.0.0.1:53
+01/03/2025-13:12:02.042943  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49148 -> 127.0.0.1:53
+01/03/2025-13:12:04.106093  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:59212 -> 1.1.1.1:53
+01/03/2025-13:12:07.046197  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:32901 -> 1.1.1.1:53
+01/03/2025-13:12:07.046231  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:32901 -> 1.1.1.1:53
+01/03/2025-13:12:07.109370  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:40750 -> 1.0.0.1:53
+01/03/2025-13:12:10.046984  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:50817 -> 1.0.0.1:53
+01/03/2025-13:12:10.047005  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:50817 -> 1.0.0.1:53
+01/04/2025-18:22:28.830115  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60954 -> 127.0.0.1:53
+01/04/2025-18:22:28.830127  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60954 -> 127.0.0.1:53
+01/04/2025-18:22:33.834763  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48313 -> 1.1.1.1:53
+01/04/2025-18:22:33.834783  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.1.23:48313 -> 1.1.1.1:53
+01/27/2025-11:16:22.164413  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34678 -> 127.0.0.1:53
+01/27/2025-11:16:22.164423  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34678 -> 127.0.0.1:53
+01/27/2025-11:16:27.167608  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:45373 -> 1.1.1.1:53
+01/27/2025-11:16:27.167629  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:45373 -> 1.1.1.1:53
+01/27/2025-11:16:30.170730  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:51586 -> 1.0.0.1:53
+01/27/2025-11:16:30.170748  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:51586 -> 1.0.0.1:53
+01/27/2025-11:16:36.176979  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34678 -> 127.0.0.1:53
+01/27/2025-11:16:36.177004  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:34678 -> 127.0.0.1:53
+01/27/2025-11:16:37.086281  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60730 -> 127.0.0.1:53
+01/27/2025-11:16:37.086290  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60730 -> 127.0.0.1:53
+01/27/2025-11:16:40.043546  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48753 -> 127.0.0.1:53
+01/27/2025-11:16:40.043558  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48753 -> 127.0.0.1:53
+01/27/2025-11:16:41.179604  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:45373 -> 1.1.1.1:53
+01/27/2025-11:16:41.179615  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:45373 -> 1.1.1.1:53
+01/27/2025-11:16:42.087566  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:36271 -> 1.1.1.1:53
+01/27/2025-11:16:42.087578  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:36271 -> 1.1.1.1:53
+01/27/2025-11:16:44.182859  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:51586 -> 1.0.0.1:53
+01/27/2025-11:16:44.182883  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:51586 -> 1.0.0.1:53
+01/27/2025-11:16:45.047688  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:40681 -> 1.1.1.1:53
+01/27/2025-11:16:45.047717  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:40681 -> 1.1.1.1:53
+01/27/2025-11:16:45.090768  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54121 -> 1.0.0.1:53
+01/27/2025-11:16:45.090799  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54121 -> 1.0.0.1:53
+01/27/2025-11:16:48.051004  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:38567 -> 1.0.0.1:53
+01/27/2025-11:16:48.051032  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:38567 -> 1.0.0.1:53
+01/27/2025-11:16:50.187864  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58445 -> 127.0.0.1:53
+01/27/2025-11:16:50.187876  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58445 -> 127.0.0.1:53
+01/27/2025-11:16:51.095452  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60730 -> 127.0.0.1:53
+01/27/2025-11:16:51.095462  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:60730 -> 127.0.0.1:53
+01/27/2025-11:16:54.055508  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48753 -> 127.0.0.1:53
+01/27/2025-11:16:54.055529  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:48753 -> 127.0.0.1:53
+01/27/2025-11:16:55.191611  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:56899 -> 1.1.1.1:53
+01/27/2025-11:16:55.191636  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:56899 -> 1.1.1.1:53
+01/27/2025-11:16:56.099770  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:36271 -> 1.1.1.1:53
+01/27/2025-11:16:56.099794  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:36271 -> 1.1.1.1:53
+01/27/2025-11:16:58.194845  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:42075 -> 1.0.0.1:53
+01/27/2025-11:16:58.194867  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:42075 -> 1.0.0.1:53
+01/27/2025-11:16:59.059621  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:40681 -> 1.1.1.1:53
+01/27/2025-11:16:59.059646  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:40681 -> 1.1.1.1:53
+01/27/2025-11:16:59.100045  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54121 -> 1.0.0.1:53
+01/27/2025-11:16:59.100067  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54121 -> 1.0.0.1:53
+01/27/2025-11:17:02.062841  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:38567 -> 1.0.0.1:53
+01/27/2025-11:17:02.062868  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:38567 -> 1.0.0.1:53
+01/27/2025-11:17:03.887818  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49747 -> 127.0.0.1:53
+01/27/2025-11:17:03.887826  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:49747 -> 127.0.0.1:53
+01/27/2025-11:17:04.201125  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58445 -> 127.0.0.1:53
+01/27/2025-11:17:04.201152  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:58445 -> 127.0.0.1:53
+01/27/2025-11:17:05.104173  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59999 -> 127.0.0.1:53
+01/27/2025-11:17:05.104205  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59999 -> 127.0.0.1:53
+01/27/2025-11:17:08.069482  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37314 -> 127.0.0.1:53
+01/27/2025-11:17:08.069511  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37314 -> 127.0.0.1:53
+01/27/2025-11:17:09.203648  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:56899 -> 1.1.1.1:53
+01/27/2025-11:17:09.203666  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:56899 -> 1.1.1.1:53
+01/27/2025-11:17:10.109518  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:57757 -> 1.1.1.1:53
+01/27/2025-11:17:10.109541  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:57757 -> 1.1.1.1:53
+01/27/2025-11:17:12.206899  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:42075 -> 1.0.0.1:53
+01/27/2025-11:17:12.206925  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:42075 -> 1.0.0.1:53
+01/27/2025-11:17:13.071670  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54276 -> 1.1.1.1:53
+01/27/2025-11:17:13.071686  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54276 -> 1.1.1.1:53
+01/27/2025-11:17:13.111659  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:60409 -> 1.0.0.1:53
+01/27/2025-11:17:13.111677  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:60409 -> 1.0.0.1:53
+01/27/2025-11:17:16.074957  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:59311 -> 1.0.0.1:53
+01/27/2025-11:17:16.074980  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:59311 -> 1.0.0.1:53
+01/27/2025-11:17:19.115469  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59999 -> 127.0.0.1:53
+01/27/2025-11:17:19.115480  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:59999 -> 127.0.0.1:53
+01/27/2025-11:17:22.081109  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37314 -> 127.0.0.1:53
+01/27/2025-11:17:22.081118  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 127.0.0.1:37314 -> 127.0.0.1:53
+01/27/2025-11:17:24.119644  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:57757 -> 1.1.1.1:53
+01/27/2025-11:17:24.119659  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:57757 -> 1.1.1.1:53
+01/27/2025-11:17:27.084561  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54276 -> 1.1.1.1:53
+01/27/2025-11:17:27.084571  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:54276 -> 1.1.1.1:53
+01/27/2025-11:17:27.122768  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:60409 -> 1.0.0.1:53
+01/27/2025-11:17:27.122788  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:60409 -> 1.0.0.1:53
+01/27/2025-11:17:30.087552  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:59311 -> 1.0.0.1:53
+01/27/2025-11:17:30.087561  [Drop] [**] [1:1000002:0] Burek [**] [Classification: (null)] [Priority: 2] {UDP} 192.168.201.241:59311 -> 1.0.0.1:53

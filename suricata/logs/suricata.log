@@ -1,0 +1,1041 @@
+2/1/2025 -- 19:55:42 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 19:55:42 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 19:55:43 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 19:55:43 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 19:55:43 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 19:55:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:55:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:55:43 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/nasapravila.rules
+2/1/2025 -- 19:55:43 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/french_alert.rules
+2/1/2025 -- 19:55:43 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/french_reject.rules
+2/1/2025 -- 19:55:43 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 3 rule files specified, but no rules were loaded!
+2/1/2025 -- 19:55:43 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 19:55:43 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 19:55:43 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 19:55:43 - <Info> - setting queue length to 4096
+2/1/2025 -- 19:55:43 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 19:55:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:55:43 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 19:55:43 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 19:58:18 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 19:58:18 - <Info> - time elapsed 155.706s
+2/1/2025 -- 19:58:18 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 19:58:18 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 19:58:18 - <Info> - Alerts: 0
+2/1/2025 -- 19:58:18 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 19:58:25 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 19:58:25 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 19:58:25 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 19:58:25 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 19:58:25 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 19:58:25 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:58:25 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:58:25 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/nasapravila.rules
+2/1/2025 -- 19:58:25 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/french_alert.rules
+2/1/2025 -- 19:58:25 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/french_reject.rules
+2/1/2025 -- 19:58:25 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 3 rule files specified, but no rules were loaded!
+2/1/2025 -- 19:58:25 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 19:58:25 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 19:58:25 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 19:58:25 - <Info> - setting queue length to 4096
+2/1/2025 -- 19:58:25 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 19:58:25 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 19:58:25 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 19:58:25 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 19:58:59 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 19:58:59 - <Info> - time elapsed 33.825s
+2/1/2025 -- 19:58:59 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 19:58:59 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 19:58:59 - <Info> - Alerts: 0
+2/1/2025 -- 19:58:59 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:16:07 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:16:07 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:16:07 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:16:07 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:16:07 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:16:07 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:07 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:07 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/alerti.rules
+2/1/2025 -- 21:16:07 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+2/1/2025 -- 21:16:07 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:16:07 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:16:07 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:16:07 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:16:07 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:16:07 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:07 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:16:07 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:16:10 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:16:10 - <Info> - time elapsed 3.115s
+2/1/2025 -- 21:16:10 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:16:10 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:16:10 - <Info> - Alerts: 0
+2/1/2025 -- 21:16:10 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:16:26 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:16:26 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:16:26 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:16:26 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:16:26 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:16:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:26 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/alerti.rules
+2/1/2025 -- 21:16:26 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+2/1/2025 -- 21:16:26 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:16:26 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:16:26 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:16:26 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:16:26 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:16:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:16:26 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:16:26 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:16:34 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:16:34 - <Info> - time elapsed 8.243s
+2/1/2025 -- 21:16:34 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:16:34 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:16:34 - <Info> - Alerts: 0
+2/1/2025 -- 21:16:34 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:17:26 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:17:26 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:17:26 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:17:26 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:17:26 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:17:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:26 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/alerti.rules
+2/1/2025 -- 21:17:26 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+2/1/2025 -- 21:17:26 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:17:26 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:17:26 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:17:26 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:17:26 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:17:26 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:26 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:17:26 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:17:44 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:17:45 - <Info> - time elapsed 18.468s
+2/1/2025 -- 21:17:45 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:17:45 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:17:45 - <Info> - Alerts: 0
+2/1/2025 -- 21:17:45 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:17:53 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:17:53 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:17:53 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:17:53 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:17:53 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:17:53 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:53 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:53 - <Warning> - [ERRCODE: SC_ERR_NO_RULES(42)] - No rule files match the pattern /root/suricata_rules/alerti.rules
+2/1/2025 -- 21:17:53 - <Warning> - [ERRCODE: SC_ERR_NO_RULES_LOADED(43)] - 1 rule files specified, but no rules were loaded!
+2/1/2025 -- 21:17:53 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:17:53 - <Info> - 0 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:17:53 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:17:53 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:17:53 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:17:53 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:17:53 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:17:53 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:17:59 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:17:59 - <Info> - time elapsed 6.198s
+2/1/2025 -- 21:17:59 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:17:59 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:17:59 - <Info> - Alerts: 0
+2/1/2025 -- 21:17:59 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:18:27 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:18:27 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:18:27 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:18:27 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:18:27 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:18:27 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:18:27 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:18:27 - <Info> - 1 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:18:27 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:18:27 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:18:27 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:18:27 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:18:27 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:18:27 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:18:27 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:18:27 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:19:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:19:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:19:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:19:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:19:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:22:08 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:22:08 - <Info> - time elapsed 220.488s
+2/1/2025 -- 21:22:08 - <Notice> - (RX-NFQ#0) Treated: Pkts 416, Bytes 18681, Errors 240
+2/1/2025 -- 21:22:08 - <Notice> - (RX-NFQ#0) Verdict: Accepted 176, Dropped 0, Replaced 0
+2/1/2025 -- 21:22:08 - <Info> - Alerts: 65
+2/1/2025 -- 21:22:08 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:22:10 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:22:10 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:22:10 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:22:10 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:22:10 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:22:10 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:22:10 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:22:10 - <Info> - 2 rule files processed. 2 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:22:10 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:22:10 - <Info> - 2 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 1 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:22:10 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:22:10 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:22:10 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:22:10 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:22:10 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:22:10 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:22:23 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:22:23 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:22:23 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:22:23 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:22:23 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:02 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:23:03 - <Info> - time elapsed 53.180s
+2/1/2025 -- 21:23:03 - <Notice> - (RX-NFQ#0) Treated: Pkts 499, Bytes 39087, Errors 269
+2/1/2025 -- 21:23:03 - <Notice> - (RX-NFQ#0) Verdict: Accepted 229, Dropped 0, Replaced 0
+2/1/2025 -- 21:23:03 - <Info> - Alerts: 60
+2/1/2025 -- 21:23:03 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:23:05 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:23:05 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:23:05 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:23:05 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:23:05 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:23:05 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:05 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:05 - <Info> - 2 rule files processed. 2 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:23:05 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:23:05 - <Info> - 2 signatures processed. 1 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:23:05 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:23:05 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:23:05 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:23:05 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:05 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:23:05 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:23:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:05 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:06 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:36 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:23:36 - <Info> - time elapsed 31.601s
+2/1/2025 -- 21:23:36 - <Notice> - (RX-NFQ#0) Treated: Pkts 280, Bytes 18623, Errors 142
+2/1/2025 -- 21:23:36 - <Notice> - (RX-NFQ#0) Verdict: Accepted 134, Dropped 4, Replaced 0
+2/1/2025 -- 21:23:36 - <Info> - Alerts: 32
+2/1/2025 -- 21:23:37 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:23:38 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:23:38 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:23:38 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:23:38 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:23:38 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:23:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:38 - <Error> - [ERRCODE: SC_ERR_INVALID_ACTION(142)] - An invalid action "//alert" was given
+2/1/2025 -- 21:23:38 - <Error> - [ERRCODE: SC_ERR_INVALID_SIGNATURE(39)] - error parsing signature "//alert ip any any -> any any (msg:"ALERT EVERYTHING"; sid:1000001; priority:1;)" from file /etc/suricata/rules/alert.rules at line 1
+2/1/2025 -- 21:23:38 - <Info> - 2 rule files processed. 1 rules successfully loaded, 1 rules failed
+2/1/2025 -- 21:23:38 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:23:38 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:23:38 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:23:38 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:23:38 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:23:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:38 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:23:38 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:23:38 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:38 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:39 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:39 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:40 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:44 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:23:45 - <Info> - time elapsed 6.451s
+2/1/2025 -- 21:23:45 - <Notice> - (RX-NFQ#0) Treated: Pkts 43, Bytes 2475, Errors 14
+2/1/2025 -- 21:23:45 - <Notice> - (RX-NFQ#0) Verdict: Accepted 14, Dropped 15, Replaced 0
+2/1/2025 -- 21:23:45 - <Info> - Alerts: 0
+2/1/2025 -- 21:23:45 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:23:49 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:23:49 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:23:49 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:23:49 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:23:49 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:23:49 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:49 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:49 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:23:49 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:23:49 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:23:49 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:23:49 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:23:49 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:23:49 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:23:49 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:23:49 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:23:50 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:50 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:50 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:50 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:23:50 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:25:00 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:25:00 - <Info> - time elapsed 70.842s
+2/1/2025 -- 21:25:00 - <Notice> - (RX-NFQ#0) Treated: Pkts 824, Bytes 50661, Errors 442
+2/1/2025 -- 21:25:00 - <Notice> - (RX-NFQ#0) Verdict: Accepted 375, Dropped 6, Replaced 0
+2/1/2025 -- 21:25:00 - <Info> - Alerts: 0
+2/1/2025 -- 21:25:00 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:26:47 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:26:47 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:26:47 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:26:47 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:26:47 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:26:47 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:26:47 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:26:47 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:26:47 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:26:47 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:26:47 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:26:47 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:26:47 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:26:47 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:26:47 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:26:47 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:27:23 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:27:23 - <Info> - time elapsed 36.307s
+2/1/2025 -- 21:27:23 - <Notice> - (RX-NFQ#0) Treated: Pkts 200, Bytes 14190, Errors 0
+2/1/2025 -- 21:27:23 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 199, Replaced 0
+2/1/2025 -- 21:27:23 - <Info> - Alerts: 72
+2/1/2025 -- 21:27:23 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:32:39 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:32:39 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:32:39 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:32:39 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:32:39 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:32:39 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:32:39 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:32:39 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:32:39 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:32:39 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:32:39 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:32:39 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:32:39 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:32:39 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:32:39 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:32:39 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:34:52 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:34:53 - <Info> - time elapsed 134.197s
+2/1/2025 -- 21:34:53 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:34:53 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:34:53 - <Info> - Alerts: 0
+2/1/2025 -- 21:34:53 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:34:55 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:34:55 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:34:55 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:34:55 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:34:55 - <Info> - eve-log output device (regular) initialized: /root/captures/eve.json
+2/1/2025 -- 21:34:55 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:34:55 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:34:55 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:34:55 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:34:55 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:34:55 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:34:55 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:34:55 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:34:55 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:34:55 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:34:55 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:35:33 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:35:33 - <Info> - time elapsed 37.989s
+2/1/2025 -- 21:35:33 - <Notice> - (RX-NFQ#0) Treated: Pkts 116, Bytes 14292, Errors 0
+2/1/2025 -- 21:35:33 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 116, Replaced 0
+2/1/2025 -- 21:35:33 - <Info> - Alerts: 28
+2/1/2025 -- 21:35:33 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:37:03 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:37:03 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:37:03 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:37:03 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:37:03 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:37:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:37:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:37:03 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:37:03 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:37:03 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:37:03 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:37:03 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:37:03 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:37:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:37:03 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:37:03 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:39:32 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:39:33 - <Info> - time elapsed 149.168s
+2/1/2025 -- 21:39:33 - <Notice> - (RX-NFQ#0) Treated: Pkts 608, Bytes 44491, Errors 0
+2/1/2025 -- 21:39:33 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 608, Replaced 0
+2/1/2025 -- 21:39:33 - <Info> - Alerts: 171
+2/1/2025 -- 21:39:33 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:39:36 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:39:36 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:39:36 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:39:36 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:39:36 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:39:36 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:39:36 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:39:36 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:39:36 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:39:36 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:39:36 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:39:36 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:39:36 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:39:37 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:39:37 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:39:37 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:39:39 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:39:39 - <Info> - time elapsed 2.784s
+2/1/2025 -- 21:39:39 - <Notice> - (RX-NFQ#0) Treated: Pkts 8, Bytes 527, Errors 0
+2/1/2025 -- 21:39:39 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 8, Replaced 0
+2/1/2025 -- 21:39:39 - <Info> - Alerts: 5
+2/1/2025 -- 21:39:39 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:40:03 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:40:03 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:40:03 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:40:03 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:40:03 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:40:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:03 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:40:03 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:40:03 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:40:03 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:40:03 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:40:03 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:40:03 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:03 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:40:03 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:40:06 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:40:06 - <Info> - time elapsed 3.113s
+2/1/2025 -- 21:40:06 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:40:06 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:40:06 - <Info> - Alerts: 0
+2/1/2025 -- 21:40:07 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:40:38 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:40:38 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:40:38 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:40:38 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:40:38 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:40:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:38 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:40:38 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:40:38 - <Info> - 1 signatures processed. 1 are IP-only rules, 0 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:40:38 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:40:38 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:40:38 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:40:38 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:40:38 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:40:38 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:41:48 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:41:49 - <Info> - time elapsed 71.595s
+2/1/2025 -- 21:41:49 - <Notice> - (RX-NFQ#0) Treated: Pkts 185, Bytes 19180, Errors 0
+2/1/2025 -- 21:41:49 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 185, Replaced 0
+2/1/2025 -- 21:41:49 - <Info> - Alerts: 51
+2/1/2025 -- 21:41:49 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:42:12 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:42:12 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:42:12 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:42:12 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:42:12 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:42:12 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:42:12 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:42:12 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:42:12 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:42:12 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:42:12 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:42:12 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:42:12 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:42:12 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:42:12 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:42:12 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:42:17 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:42:17 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:42:17 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:42:17 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:42:17 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:44:06 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:44:07 - <Info> - time elapsed 115.363s
+2/1/2025 -- 21:44:07 - <Notice> - (RX-NFQ#0) Treated: Pkts 3441, Bytes 779728, Errors 1693
+2/1/2025 -- 21:44:07 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1613, Dropped 134, Replaced 0
+2/1/2025 -- 21:44:07 - <Info> - Alerts: 84
+2/1/2025 -- 21:44:07 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:46:31 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:46:31 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:46:31 - <Info> - Enabling fail-open on queue
+2/1/2025 -- 21:46:31 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:46:31 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:46:31 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:46:31 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:46:31 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:46:31 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:46:31 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:46:31 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:46:31 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:46:31 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:46:31 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:46:31 - <Info> - fail-open mode should be set on queue
+2/1/2025 -- 21:46:31 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:46:31 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:46:31 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:46:35 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:46:35 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:46:35 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:46:36 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:46:36 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:47:06 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:47:06 - <Info> - time elapsed 34.226s
+2/1/2025 -- 21:47:06 - <Notice> - (RX-NFQ#0) Treated: Pkts 1769, Bytes 473003, Errors 881
+2/1/2025 -- 21:47:06 - <Notice> - (RX-NFQ#0) Verdict: Accepted 851, Dropped 35, Replaced 0
+2/1/2025 -- 21:47:06 - <Info> - Alerts: 22
+2/1/2025 -- 21:47:06 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:49:32 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:49:32 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:49:32 - <Info> - Enabling fail-open on queue
+2/1/2025 -- 21:49:32 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:49:32 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:49:32 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:49:32 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:49:32 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:49:32 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:49:32 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:49:32 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:49:32 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:49:32 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:49:32 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:49:32 - <Info> - fail-open mode should be set on queue
+2/1/2025 -- 21:49:32 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:49:32 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:49:32 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:49:32 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:49:32 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:49:32 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:49:32 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:49:32 - <Info> - Packet seems already treated by suricata
+2/1/2025 -- 21:49:54 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:49:54 - <Info> - time elapsed 22.221s
+2/1/2025 -- 21:49:54 - <Notice> - (RX-NFQ#0) Treated: Pkts 2046, Bytes 572711, Errors 1020
+2/1/2025 -- 21:49:54 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1002, Dropped 24, Replaced 0
+2/1/2025 -- 21:49:54 - <Info> - Alerts: 10
+2/1/2025 -- 21:49:54 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:53:09 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:53:09 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:53:09 - <Info> - Enabling fail-open on queue
+2/1/2025 -- 21:53:09 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:53:09 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:53:09 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:53:09 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:53:09 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:53:09 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:53:09 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:53:09 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:53:09 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:53:09 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:53:09 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:53:09 - <Info> - fail-open mode should be set on queue
+2/1/2025 -- 21:53:09 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:53:09 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:53:09 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:53:10 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:53:11 - <Info> - time elapsed 2.104s
+2/1/2025 -- 21:53:11 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:53:11 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:53:11 - <Info> - Alerts: 0
+2/1/2025 -- 21:53:11 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 21:55:19 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 21:55:19 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 21:55:19 - <Info> - Enabling fail-open on queue
+2/1/2025 -- 21:55:19 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 21:55:19 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 21:55:19 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 21:55:19 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:55:19 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:55:19 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 21:55:19 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 21:55:19 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 21:55:19 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 21:55:19 - <Info> - setting queue length to 4096
+2/1/2025 -- 21:55:19 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 21:55:19 - <Info> - fail-open mode should be set on queue
+2/1/2025 -- 21:55:19 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 21:55:19 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 21:55:19 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 21:55:22 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 21:55:23 - <Info> - time elapsed 4.141s
+2/1/2025 -- 21:55:23 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 21:55:23 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 21:55:23 - <Info> - Alerts: 0
+2/1/2025 -- 21:55:23 - <Info> - cleaning up signature grouping structure... complete
+2/1/2025 -- 22:09:43 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+2/1/2025 -- 22:09:43 - <Info> - CPUs/cores online: 12
+2/1/2025 -- 22:09:43 - <Info> - Enabling fail-open on queue
+2/1/2025 -- 22:09:43 - <Info> - NFQ running in REPEAT mode with mark 1/1
+2/1/2025 -- 22:09:43 - <Info> - fast output device (regular) initialized: fast.log
+2/1/2025 -- 22:09:43 - <Info> - eve-log output device (regular) initialized: eve.json
+2/1/2025 -- 22:09:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 22:09:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 22:09:43 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+2/1/2025 -- 22:09:43 - <Info> - Threshold config parsed: 0 rule(s) found
+2/1/2025 -- 22:09:43 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+2/1/2025 -- 22:09:43 - <Info> - binding this thread 0 to queue '0'
+2/1/2025 -- 22:09:43 - <Info> - setting queue length to 4096
+2/1/2025 -- 22:09:43 - <Info> - setting nfnl bufsize to 6144000
+2/1/2025 -- 22:09:43 - <Info> - fail-open mode should be set on queue
+2/1/2025 -- 22:09:43 - <Info> - Running in live mode, activating unix socket
+2/1/2025 -- 22:09:43 - <Info> - Using unix socket file '/var/suricata-command.socket'
+2/1/2025 -- 22:09:43 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+2/1/2025 -- 22:09:45 - <Notice> - Signal Received.  Stopping engine.
+2/1/2025 -- 22:09:46 - <Info> - time elapsed 2.081s
+2/1/2025 -- 22:09:46 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+2/1/2025 -- 22:09:46 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+2/1/2025 -- 22:09:46 - <Info> - Alerts: 0
+2/1/2025 -- 22:09:46 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:50:02 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:50:02 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:50:02 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:50:02 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:50:02 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:50:02 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:50:02 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:50:02 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:50:02 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:50:02 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:50:02 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:50:02 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:50:02 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:50:02 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:50:02 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:50:02 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:50:02 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:50:02 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:50:43 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:50:43 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:50:43 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:50:43 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:50:43 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:51:36 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:51:37 - <Info> - time elapsed 94.902s
+3/1/2025 -- 12:51:37 - <Notice> - (RX-NFQ#0) Treated: Pkts 403, Bytes 23473, Errors 190
+3/1/2025 -- 12:51:37 - <Notice> - (RX-NFQ#0) Verdict: Accepted 168, Dropped 45, Replaced 0
+3/1/2025 -- 12:51:37 - <Info> - Alerts: 45
+3/1/2025 -- 12:51:37 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:54:39 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:54:39 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:54:40 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:54:40 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:54:40 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:54:40 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:54:40 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:54:40 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:54:40 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:54:40 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:54:40 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:54:40 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:54:40 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:54:40 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:54:40 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:54:40 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:54:40 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:54:40 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:55:02 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:55:02 - <Info> - time elapsed 22.585s
+3/1/2025 -- 12:55:02 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+3/1/2025 -- 12:55:02 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+3/1/2025 -- 12:55:02 - <Info> - Alerts: 0
+3/1/2025 -- 12:55:02 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:55:08 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:55:08 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:55:08 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:55:08 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:55:08 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:55:08 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:55:08 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:08 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:08 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:55:08 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:55:08 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:55:08 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:55:08 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:55:08 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:55:08 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:55:08 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:08 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:55:08 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:55:10 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:55:10 - <Info> - time elapsed 2.098s
+3/1/2025 -- 12:55:10 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+3/1/2025 -- 12:55:10 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+3/1/2025 -- 12:55:10 - <Info> - Alerts: 0
+3/1/2025 -- 12:55:10 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:55:20 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:55:20 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:55:20 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:55:20 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:55:20 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:55:20 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:55:20 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:20 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:20 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:55:20 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:55:20 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:55:20 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:55:20 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:55:20 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:55:20 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:55:20 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:55:20 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:55:20 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:56:23 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:56:23 - <Info> - time elapsed 63.543s
+3/1/2025 -- 12:56:23 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+3/1/2025 -- 12:56:23 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+3/1/2025 -- 12:56:23 - <Info> - Alerts: 0
+3/1/2025 -- 12:56:24 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:56:28 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:56:28 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:56:28 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:56:28 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:56:28 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:56:28 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:56:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:56:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:56:28 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:56:28 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:56:28 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:56:28 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:56:28 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:56:28 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:56:28 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:56:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:56:28 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:56:28 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:57:12 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:57:12 - <Info> - time elapsed 44.069s
+3/1/2025 -- 12:57:12 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+3/1/2025 -- 12:57:12 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+3/1/2025 -- 12:57:12 - <Info> - Alerts: 0
+3/1/2025 -- 12:57:12 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:57:26 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:57:26 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:57:26 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:57:26 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:57:26 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:57:26 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:57:26 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:57:26 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:57:26 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:57:26 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:57:26 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:57:26 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:57:26 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:57:26 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:57:26 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:57:26 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:57:26 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:57:26 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:58:03 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:58:03 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:58:03 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:58:03 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:58:03 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:58:54 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 12:58:54 - <Info> - time elapsed 88.609s
+3/1/2025 -- 12:58:54 - <Notice> - (RX-NFQ#0) Treated: Pkts 948, Bytes 51126, Errors 513
+3/1/2025 -- 12:58:54 - <Notice> - (RX-NFQ#0) Verdict: Accepted 395, Dropped 39, Replaced 0
+3/1/2025 -- 12:58:54 - <Info> - Alerts: 39
+3/1/2025 -- 12:58:55 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 12:59:25 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 12:59:25 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 12:59:25 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 12:59:25 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 12:59:25 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 12:59:25 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 12:59:25 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:59:25 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:59:25 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 12:59:25 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 12:59:25 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 12:59:25 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 12:59:25 - <Info> - setting queue length to 4096
+3/1/2025 -- 12:59:25 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 12:59:25 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 12:59:25 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 12:59:25 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 12:59:25 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 12:59:25 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:59:25 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:59:26 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:59:26 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 12:59:26 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:01:40 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 13:01:40 - <Info> - time elapsed 135.210s
+3/1/2025 -- 13:01:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 3629, Bytes 491222, Errors 2039
+3/1/2025 -- 13:01:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 1581, Dropped 8, Replaced 0
+3/1/2025 -- 13:01:40 - <Info> - Alerts: 0
+3/1/2025 -- 13:01:40 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 13:03:05 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 13:03:05 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 13:03:05 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 13:03:05 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 13:03:05 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 13:03:05 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 13:03:05 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:03:05 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:03:05 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 13:03:05 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 13:03:05 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 13:03:05 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 13:03:05 - <Info> - setting queue length to 4096
+3/1/2025 -- 13:03:05 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 13:03:05 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 13:03:05 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:03:05 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 13:03:05 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 13:03:05 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:03:05 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:03:08 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:03:08 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:03:08 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:05:10 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 13:05:11 - <Info> - time elapsed 126.382s
+3/1/2025 -- 13:05:11 - <Notice> - (RX-NFQ#0) Treated: Pkts 12174, Bytes 3867600, Errors 6436
+3/1/2025 -- 13:05:11 - <Notice> - (RX-NFQ#0) Verdict: Accepted 5707, Dropped 30, Replaced 0
+3/1/2025 -- 13:05:11 - <Info> - Alerts: 30
+3/1/2025 -- 13:05:11 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 13:05:28 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 13:05:28 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 13:05:28 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 13:05:28 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 13:05:28 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 13:05:28 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 13:05:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:05:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:05:28 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 13:05:28 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 13:05:28 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 13:05:28 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 13:05:28 - <Info> - setting queue length to 4096
+3/1/2025 -- 13:05:28 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 13:05:28 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 13:05:28 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:05:28 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 13:05:28 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 13:05:29 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:05:29 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:05:29 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:05:29 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:05:29 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:06:05 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 13:06:05 - <Info> - time elapsed 36.945s
+3/1/2025 -- 13:06:05 - <Notice> - (RX-NFQ#0) Treated: Pkts 1682, Bytes 71930, Errors 992
+3/1/2025 -- 13:06:05 - <Notice> - (RX-NFQ#0) Verdict: Accepted 689, Dropped 0, Replaced 0
+3/1/2025 -- 13:06:05 - <Info> - Alerts: 0
+3/1/2025 -- 13:06:05 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 13:07:47 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 13:07:47 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 13:07:47 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 13:07:47 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 13:07:47 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 13:07:47 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 13:07:47 - <Error> - [ERRCODE: SC_ERR_LOGDIR_CONFIG(116)] - The sguil-base-dir directory "/var/logs/suricata" supplied doesn't exist. Shutting down the engine
+3/1/2025 -- 13:08:45 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 13:08:45 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 13:08:45 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 13:08:45 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 13:08:45 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 13:08:45 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 13:08:45 - <Info> - Using log dir /var/log/suricata
+3/1/2025 -- 13:08:45 - <Info> - Selected pcap-log compression method: none
+3/1/2025 -- 13:08:45 - <Info> - using normal logging
+3/1/2025 -- 13:08:45 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:08:45 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:08:45 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 13:08:45 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 13:08:45 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 13:08:45 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 13:08:45 - <Info> - setting queue length to 4096
+3/1/2025 -- 13:08:45 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 13:08:45 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 13:08:45 - <Info> - Initializing PCAP ring buffer for /var/log/suricata/log.pcap.
+3/1/2025 -- 13:08:45 - <Notice> - Ring buffer initialized with 0 files.
+3/1/2025 -- 13:08:45 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:08:45 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 13:08:45 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 13:08:45 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:08:45 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:08:46 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:08:46 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:08:46 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:10:23 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 13:10:24 - <Info> - time elapsed 99.883s
+3/1/2025 -- 13:10:24 - <Notice> - (RX-NFQ#0) Treated: Pkts 1200, Bytes 49048, Errors 687
+3/1/2025 -- 13:10:24 - <Notice> - (RX-NFQ#0) Verdict: Accepted 493, Dropped 20, Replaced 0
+3/1/2025 -- 13:10:24 - <Info> - Alerts: 20
+3/1/2025 -- 13:10:25 - <Info> - cleaning up signature grouping structure... complete
+3/1/2025 -- 13:11:00 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+3/1/2025 -- 13:11:00 - <Info> - CPUs/cores online: 12
+3/1/2025 -- 13:11:00 - <Info> - Enabling fail-open on queue
+3/1/2025 -- 13:11:00 - <Info> - NFQ running in REPEAT mode with mark 1/1
+3/1/2025 -- 13:11:00 - <Info> - fast output device (regular) initialized: fast.log
+3/1/2025 -- 13:11:00 - <Info> - eve-log output device (regular) initialized: eve.json
+3/1/2025 -- 13:11:00 - <Info> - Using log dir /var/log/suricata
+3/1/2025 -- 13:11:00 - <Info> - Selected pcap-log compression method: none
+3/1/2025 -- 13:11:00 - <Info> - using normal logging
+3/1/2025 -- 13:11:00 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:11:00 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:11:00 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+3/1/2025 -- 13:11:00 - <Info> - Threshold config parsed: 0 rule(s) found
+3/1/2025 -- 13:11:00 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+3/1/2025 -- 13:11:00 - <Info> - binding this thread 0 to queue '0'
+3/1/2025 -- 13:11:00 - <Info> - setting queue length to 4096
+3/1/2025 -- 13:11:00 - <Info> - setting nfnl bufsize to 6144000
+3/1/2025 -- 13:11:00 - <Info> - fail-open mode should be set on queue
+3/1/2025 -- 13:11:00 - <Info> - Initializing PCAP ring buffer for /var/log/suricata/log.pcap.
+3/1/2025 -- 13:11:00 - <Notice> - Ring buffer initialized with 1 files.
+3/1/2025 -- 13:11:00 - <Info> - Running in live mode, activating unix socket
+3/1/2025 -- 13:11:00 - <Info> - Using unix socket file '/var/suricata-command.socket'
+3/1/2025 -- 13:11:00 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+3/1/2025 -- 13:11:04 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:11:04 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:11:04 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:11:04 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:11:04 - <Info> - Packet seems already treated by suricata
+3/1/2025 -- 13:13:54 - <Notice> - Signal Received.  Stopping engine.
+3/1/2025 -- 13:13:55 - <Info> - time elapsed 175.211s
+3/1/2025 -- 13:13:55 - <Notice> - (RX-NFQ#0) Treated: Pkts 1693, Bytes 80953, Errors 951
+3/1/2025 -- 13:13:55 - <Notice> - (RX-NFQ#0) Verdict: Accepted 696, Dropped 46, Replaced 0
+3/1/2025 -- 13:13:55 - <Info> - Alerts: 36
+3/1/2025 -- 13:13:55 - <Info> - cleaning up signature grouping structure... complete
+4/1/2025 -- 18:22:11 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+4/1/2025 -- 18:22:11 - <Info> - CPUs/cores online: 12
+4/1/2025 -- 18:22:11 - <Info> - Enabling fail-open on queue
+4/1/2025 -- 18:22:11 - <Info> - NFQ running in REPEAT mode with mark 1/1
+4/1/2025 -- 18:22:11 - <Info> - fast output device (regular) initialized: fast.log
+4/1/2025 -- 18:22:11 - <Info> - eve-log output device (regular) initialized: eve.json
+4/1/2025 -- 18:22:11 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:22:11 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:22:11 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+4/1/2025 -- 18:22:11 - <Info> - Threshold config parsed: 0 rule(s) found
+4/1/2025 -- 18:22:11 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+4/1/2025 -- 18:22:11 - <Info> - binding this thread 0 to queue '0'
+4/1/2025 -- 18:22:11 - <Info> - setting queue length to 4096
+4/1/2025 -- 18:22:11 - <Info> - setting nfnl bufsize to 6144000
+4/1/2025 -- 18:22:11 - <Info> - fail-open mode should be set on queue
+4/1/2025 -- 18:22:11 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:22:11 - <Info> - Using unix socket file '/var/suricata-command.socket'
+4/1/2025 -- 18:22:11 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+4/1/2025 -- 18:22:14 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:22:14 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:22:14 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:22:14 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:22:14 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:22:37 - <Notice> - Signal Received.  Stopping engine.
+4/1/2025 -- 18:22:37 - <Info> - time elapsed 26.675s
+4/1/2025 -- 18:22:37 - <Notice> - (RX-NFQ#0) Treated: Pkts 193, Bytes 12334, Errors 91
+4/1/2025 -- 18:22:37 - <Notice> - (RX-NFQ#0) Verdict: Accepted 82, Dropped 19, Replaced 0
+4/1/2025 -- 18:22:37 - <Info> - Alerts: 4
+4/1/2025 -- 18:22:38 - <Info> - cleaning up signature grouping structure... complete
+4/1/2025 -- 18:23:34 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+4/1/2025 -- 18:23:34 - <Info> - CPUs/cores online: 12
+4/1/2025 -- 18:23:34 - <Info> - Enabling fail-open on queue
+4/1/2025 -- 18:23:34 - <Info> - NFQ running in REPEAT mode with mark 1/1
+4/1/2025 -- 18:23:34 - <Info> - fast output device (regular) initialized: fast.log
+4/1/2025 -- 18:23:34 - <Info> - eve-log output device (regular) initialized: eve.json
+4/1/2025 -- 18:23:34 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:23:34 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:23:34 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+4/1/2025 -- 18:23:34 - <Info> - Threshold config parsed: 0 rule(s) found
+4/1/2025 -- 18:23:34 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+4/1/2025 -- 18:23:34 - <Info> - binding this thread 0 to queue '0'
+4/1/2025 -- 18:23:34 - <Info> - setting queue length to 4096
+4/1/2025 -- 18:23:34 - <Info> - setting nfnl bufsize to 6144000
+4/1/2025 -- 18:23:34 - <Info> - fail-open mode should be set on queue
+4/1/2025 -- 18:23:34 - <Info> - Running in live mode, activating unix socket
+4/1/2025 -- 18:23:34 - <Info> - Using unix socket file '/var/suricata-command.socket'
+4/1/2025 -- 18:23:34 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+4/1/2025 -- 18:23:35 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:23:35 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:23:35 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:23:35 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:23:35 - <Info> - Packet seems already treated by suricata
+4/1/2025 -- 18:25:10 - <Notice> - Signal Received.  Stopping engine.
+4/1/2025 -- 18:25:11 - <Info> - time elapsed 96.709s
+4/1/2025 -- 18:25:11 - <Notice> - (RX-NFQ#0) Treated: Pkts 1190, Bytes 118533, Errors 632
+4/1/2025 -- 18:25:11 - <Notice> - (RX-NFQ#0) Verdict: Accepted 557, Dropped 0, Replaced 0
+4/1/2025 -- 18:25:11 - <Info> - Alerts: 0
+4/1/2025 -- 18:25:11 - <Info> - cleaning up signature grouping structure... complete
+21/1/2025 -- 15:38:23 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+21/1/2025 -- 15:38:23 - <Info> - CPUs/cores online: 12
+21/1/2025 -- 15:38:23 - <Info> - Enabling fail-open on queue
+21/1/2025 -- 15:38:23 - <Info> - NFQ running in REPEAT mode with mark 1/1
+21/1/2025 -- 15:38:23 - <Info> - fast output device (regular) initialized: fast.log
+21/1/2025 -- 15:38:23 - <Info> - eve-log output device (regular) initialized: eve.json
+21/1/2025 -- 15:38:23 - <Info> - Running in live mode, activating unix socket
+21/1/2025 -- 15:38:23 - <Info> - Running in live mode, activating unix socket
+21/1/2025 -- 15:38:23 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+21/1/2025 -- 15:38:23 - <Info> - Threshold config parsed: 0 rule(s) found
+21/1/2025 -- 15:38:23 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+21/1/2025 -- 15:38:23 - <Info> - binding this thread 0 to queue '0'
+21/1/2025 -- 15:38:23 - <Info> - setting queue length to 4096
+21/1/2025 -- 15:38:23 - <Info> - setting nfnl bufsize to 6144000
+21/1/2025 -- 15:38:23 - <Info> - fail-open mode should be set on queue
+21/1/2025 -- 15:38:23 - <Info> - Running in live mode, activating unix socket
+21/1/2025 -- 15:38:23 - <Info> - Using unix socket file '/var/suricata-command.socket'
+21/1/2025 -- 15:38:23 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+21/1/2025 -- 18:11:40 - <Notice> - Signal Received.  Stopping engine.
+21/1/2025 -- 18:11:40 - <Info> - time elapsed 9197.600s
+21/1/2025 -- 18:11:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+21/1/2025 -- 18:11:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+21/1/2025 -- 18:11:40 - <Info> - Alerts: 0
+21/1/2025 -- 18:11:41 - <Info> - cleaning up signature grouping structure... complete
+27/1/2025 -- 11:15:50 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+27/1/2025 -- 11:15:50 - <Info> - CPUs/cores online: 12
+27/1/2025 -- 11:15:50 - <Info> - Enabling fail-open on queue
+27/1/2025 -- 11:15:50 - <Info> - NFQ running in REPEAT mode with mark 1/1
+27/1/2025 -- 11:15:50 - <Info> - fast output device (regular) initialized: fast.log
+27/1/2025 -- 11:15:50 - <Info> - eve-log output device (regular) initialized: eve.json
+27/1/2025 -- 11:15:50 - <Info> - Running in live mode, activating unix socket
+27/1/2025 -- 11:15:50 - <Info> - Running in live mode, activating unix socket
+27/1/2025 -- 11:15:50 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+27/1/2025 -- 11:15:50 - <Info> - Threshold config parsed: 0 rule(s) found
+27/1/2025 -- 11:15:50 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+27/1/2025 -- 11:15:50 - <Info> - binding this thread 0 to queue '0'
+27/1/2025 -- 11:15:50 - <Info> - setting queue length to 4096
+27/1/2025 -- 11:15:50 - <Info> - setting nfnl bufsize to 6144000
+27/1/2025 -- 11:15:50 - <Info> - fail-open mode should be set on queue
+27/1/2025 -- 11:15:50 - <Info> - Running in live mode, activating unix socket
+27/1/2025 -- 11:15:50 - <Info> - Using unix socket file '/var/suricata-command.socket'
+27/1/2025 -- 11:15:50 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+27/1/2025 -- 11:15:50 - <Info> - Packet seems already treated by suricata
+27/1/2025 -- 11:15:50 - <Info> - Packet seems already treated by suricata
+27/1/2025 -- 11:15:50 - <Info> - Packet seems already treated by suricata
+27/1/2025 -- 11:15:51 - <Info> - Packet seems already treated by suricata
+27/1/2025 -- 11:15:51 - <Info> - Packet seems already treated by suricata
+27/1/2025 -- 11:18:13 - <Notice> - Signal Received.  Stopping engine.
+27/1/2025 -- 11:18:14 - <Info> - time elapsed 143.698s
+27/1/2025 -- 11:18:14 - <Notice> - (RX-NFQ#0) Treated: Pkts 7155, Bytes 2401530, Errors 3508
+27/1/2025 -- 11:18:14 - <Notice> - (RX-NFQ#0) Verdict: Accepted 3450, Dropped 197, Replaced 0
+27/1/2025 -- 11:18:14 - <Info> - Alerts: 74
+27/1/2025 -- 11:18:14 - <Info> - cleaning up signature grouping structure... complete
+28/2/2025 -- 21:51:28 - <Notice> - This is Suricata version 6.0.1 RELEASE running in SYSTEM mode
+28/2/2025 -- 21:51:28 - <Info> - CPUs/cores online: 12
+28/2/2025 -- 21:51:28 - <Info> - Enabling fail-open on queue
+28/2/2025 -- 21:51:28 - <Info> - NFQ running in REPEAT mode with mark 1/1
+28/2/2025 -- 21:51:28 - <Info> - fast output device (regular) initialized: fast.log
+28/2/2025 -- 21:51:28 - <Info> - eve-log output device (regular) initialized: eve.json
+28/2/2025 -- 21:51:28 - <Info> - Running in live mode, activating unix socket
+28/2/2025 -- 21:51:28 - <Info> - Running in live mode, activating unix socket
+28/2/2025 -- 21:51:28 - <Info> - 2 rule files processed. 1 rules successfully loaded, 0 rules failed
+28/2/2025 -- 21:51:28 - <Info> - Threshold config parsed: 0 rule(s) found
+28/2/2025 -- 21:51:28 - <Info> - 1 signatures processed. 0 are IP-only rules, 1 are inspecting packet payload, 0 inspect application layer, 0 are decoder event only
+28/2/2025 -- 21:51:28 - <Info> - binding this thread 0 to queue '0'
+28/2/2025 -- 21:51:28 - <Info> - setting queue length to 4096
+28/2/2025 -- 21:51:28 - <Info> - setting nfnl bufsize to 6144000
+28/2/2025 -- 21:51:28 - <Info> - fail-open mode should be set on queue
+28/2/2025 -- 21:51:28 - <Info> - Running in live mode, activating unix socket
+28/2/2025 -- 21:51:28 - <Info> - Using unix socket file '/var/suricata-command.socket'
+28/2/2025 -- 21:51:28 - <Notice> - all 14 packet processing threads, 4 management threads initialized, engine started.
+28/2/2025 -- 21:54:39 - <Notice> - Signal Received.  Stopping engine.
+28/2/2025 -- 21:54:40 - <Info> - time elapsed 191.567s
+28/2/2025 -- 21:54:40 - <Notice> - (RX-NFQ#0) Treated: Pkts 0, Bytes 0, Errors 0
+28/2/2025 -- 21:54:40 - <Notice> - (RX-NFQ#0) Verdict: Accepted 0, Dropped 0, Replaced 0
+28/2/2025 -- 21:54:40 - <Info> - Alerts: 0
+28/2/2025 -- 21:54:40 - <Info> - cleaning up signature grouping structure... complete
