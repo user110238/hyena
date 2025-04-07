@@ -16,3 +16,11 @@ services:
     cap_add:
       - NET_ADMIN
       - NET_RAW
+
+  #webapp:
+  #  build: ./webapp
+  #  container_name: webapp
+  #  ports:
+  #    - "8080:80"
+  #  volumes:
+  #    - ./suricata/logs:/var/log/suricata
